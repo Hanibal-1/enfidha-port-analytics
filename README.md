@@ -240,7 +240,7 @@ The solution includes a multi-page executive dashboard.
 
 > Add screenshots here after exporting from Power BI.
 
-![alt text](image-6.png)
+(image-6.png)
 
 
 ```
