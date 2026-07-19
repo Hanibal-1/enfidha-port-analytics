@@ -1,0 +1,19 @@
+import sqlite3
+import pandas as pd
+
+
+conn = sqlite3.connect(
+    r"C:\Users\houcine.benromdhane\enfidha-port-analytics\data\warehouse\enfidha_port.db"
+)
+
+
+df = pd.read_sql(
+    """
+    SELECT *
+    FROM vw_flood_risk_map
+    """,
+    conn
+)
+
+
+conn.close()

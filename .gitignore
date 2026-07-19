@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ======================
+# GENERATED DATA
+# ======================
+
+# SQLite database
+data/warehouse/*.db
+
+# Raw data
+data/raw/*.csv
+data/raw/*.parquet
+
+# Processed data
+data/processed/*.csv
+data/processed/*.parquet
+
+# Power BI exports
+data/exports/
+
+# Power BI cache
+*.pbix.autosave
