@@ -240,9 +240,8 @@ The solution includes a multi-page executive dashboard.
 
 > Add screenshots here after exporting from Power BI.
 
+![alt text](image-6.png)
 
-![Executive Overview](01_Executive_Overview.png)
-c:\Users\houcine.benromdhane\enfidha-port-analytics\docs\screenshots\01_Executive_Overview.png
 
 ```
 docs/screenshots/
