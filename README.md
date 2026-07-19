@@ -238,24 +238,25 @@ The solution includes a multi-page executive dashboard.
 
 # 📷 Dashboard Preview
 
-> Add screenshots here after exporting from Power BI.
+
+## Executive Overview
 
 ![Executive Overview](docs/screenshots/01_Executive_Overview.png)
 
-```
-docs/screenshots/
 
-01_Executive_Overview.png 
+## Spatial Risk Intelligence
 
-02_Spatial_Risk_Intelligence.png
+![Spatial Risk Intelligence](docs/screenshots/02_Spatial_Risk_Intelligence.png)
 
 
-03_Climate_Analytics.png
+## Climate & Hydrological Analytics
+
+![Climate Analytics](docs/screenshots/03_Climate_Analytics.png)
 
 
-04_Infrastructure_Planning.png
+## Infrastructure Planning
 
-```
+![Infrastructure Planning](docs/screenshots/04_Infrastructure_Planning.png)
 
 ---
 
