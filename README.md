@@ -240,8 +240,7 @@ The solution includes a multi-page executive dashboard.
 
 > Add screenshots here after exporting from Power BI.
 
-(image-6.png)
-
+![Executive Overview](docs/screenshots/01_Executive_Overview.png)
 
 ```
 docs/screenshots/
