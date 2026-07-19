@@ -242,7 +242,7 @@ The solution includes a multi-page executive dashboard.
 
 
 ![Executive Overview](01_Executive_Overview.png)
-
+c:\Users\houcine.benromdhane\enfidha-port-analytics\docs\screenshots\01_Executive_Overview.png
 
 ```
 docs/screenshots/
